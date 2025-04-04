@@ -1,6 +1,6 @@
 # Meals Ordering System
 
-The project is built using  Next.js 14 and demostrating building applications using both, the App Router & Page Router.
+The project is built using  Next.js 15 and React 19.
 
 ### Step 1: Generate The Database
 
